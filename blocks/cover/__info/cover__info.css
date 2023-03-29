@@ -1,0 +1,9 @@
+.cover__info { 
+    position: absolute;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 656px;   
+    z-index: 1;    
+}

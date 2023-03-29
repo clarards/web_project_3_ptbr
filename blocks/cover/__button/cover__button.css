@@ -1,0 +1,10 @@
+.cover__button {
+    width: 191px;
+    align-self: center;
+  }
+  
+  .cover__button:hover{
+      text-decoration: underline;
+      background-color: #0763cc;
+      opacity: 0.9;
+  }

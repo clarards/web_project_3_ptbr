@@ -1,0 +1,11 @@
+.places {
+    position: relative;
+}
+
+.place {
+    display: flex;
+    flex-direction: row-reverse;
+    width: 984px;
+    height: 756px;
+    margin: 92px 148px 80px;
+}

@@ -1,0 +1,7 @@
+.place__paragraph {
+    position: relative;
+    top: 50px;
+    font-size: 18px;
+    line-height: 163%;
+    font-style: normal;
+}

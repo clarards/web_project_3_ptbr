@@ -1,0 +1,13 @@
+.artist__text {
+    color: #aaa;
+    font-size: 12px;
+    line-height: 100%;
+    letter-spacing: 12%;
+}
+
+.artist__name {
+    font-size: 18px;
+    line-height: 101%;
+    font-weight: 400;
+    margin-bottom: 0;
+}

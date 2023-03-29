@@ -1,0 +1,9 @@
+body {
+    background-color: #2A2C2F;
+}
+
+.page {
+    color: #fff;
+    max-width: 1280px;
+    font-family: 'Inter', sans-serif;
+}

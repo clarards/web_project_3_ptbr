@@ -1,0 +1,17 @@
+.header__image{
+    width: 984px;
+    height: 615px;
+    position: relative;
+    margin: 0 148px 92px;
+}
+
+/*.black__retangle {
+    width: 984px;
+    height: 615px;
+    background-color: #000;
+    opacity: 70%;
+    z-index: 1;
+    position: absolute;
+    margin: 0 148px 92px;
+    
+} */
