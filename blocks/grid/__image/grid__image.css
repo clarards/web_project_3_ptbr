@@ -1,0 +1,14 @@
+@media screen and (max-width: 768px){
+    .grid__image{
+        width: 352px;
+        margin-right: 0;
+    }
+}
+
+
+@media screen and (max-width: 320px){
+    .grid__image{
+        width: 288px;
+        
+    }
+}

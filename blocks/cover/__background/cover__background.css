@@ -12,3 +12,15 @@
     background: #2A2C2F;
     opacity: 0.5;
 }
+
+@media screen and (max-width: 768px){
+    .cover__background{
+        width: 768px;
+    }
+}
+
+@media  screen and (max-width: 320px){
+    .cover__background {
+        width: 320px;
+    }
+}

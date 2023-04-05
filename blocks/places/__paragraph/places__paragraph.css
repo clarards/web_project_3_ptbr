@@ -1,7 +1,16 @@
 .place__paragraph {
     position: relative;
     top: 50px;
-    font-size: 18px;
+    font-size: 1.1rem;
     line-height: 163%;
     font-style: normal;
+    width: 30.2rem;
+}
+
+@media screen and (max-width: 768px){
+    .place__paragraph {
+        font-size: 16px;
+        width: 352px;
+        margin-left: 28px;
+    }
 }

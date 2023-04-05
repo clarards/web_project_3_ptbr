@@ -5,3 +5,10 @@
     height: 66px;
     margin-bottom: 45px;
 }
+
+/*@media screen and (max-width: 320px){
+    .cover__subtitle{
+        width: 280px;
+        font-size: 14px;
+    }
+}*/

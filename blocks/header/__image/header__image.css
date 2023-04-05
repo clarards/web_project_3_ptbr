@@ -1,17 +1,22 @@
 .header__image{
-    width: 984px;
-    height: 615px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 61.5rem;
     position: relative;
-    margin: 0 148px 92px;
+    margin: 0 auto;
+    margin-top: 4rem;
 }
 
-/*.black__retangle {
-    width: 984px;
-    height: 615px;
-    background-color: #000;
-    opacity: 70%;
-    z-index: 1;
-    position: absolute;
-    margin: 0 148px 92px;
-    
-} */
+@media screen and (max-width: 768px){
+    .header__image {
+        width: 48rem;
+        margin-left: 0;
+    }
+}
+
+@media screen and (max-width: 320px) {
+    .header__image {
+        width: 20rem;
+    }
+}
