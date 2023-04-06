@@ -9,3 +9,10 @@
     left: 150px;
     bottom: 5px;
 }
+
+@media screen and (max-width: 320px){
+    .intro__quote_author{
+        font-size: 24px;
+        margin-left: 0;
+    }
+}

@@ -6,9 +6,10 @@
     margin-bottom: 45px;
 }
 
-/*@media screen and (max-width: 320px){
+@media screen and (max-width: 320px){
     .cover__subtitle{
+        margin-left: 180px;
         width: 280px;
         font-size: 14px;
     }
-}*/
+}

@@ -14,10 +14,14 @@
 
 @media screen and (max-width: 768px){
     .artist__text {
+        position: relative;
+        top: 200px;
         font-size: 12px;
     }
 
     .artist__name{
+        position: relative;
+        top: 200px;
         font-size: 12px;
     }
 }

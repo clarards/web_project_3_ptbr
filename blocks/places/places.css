@@ -1,7 +1,13 @@
 
 .place {
-    margin-bottom: -800px;
-    display: grid;
-    grid-template-rows: repeat(2, 1fr);
-    grid-template-columns: repeat(5, 1fr);
+    width: 61.8rem;
+    display: flex;
+    flex-direction: row;
+}
+
+@media screen and (max-width: 320px){
+    .place{
+        flex-wrap: wrap;
+        flex-direction: column;
+    }
 }

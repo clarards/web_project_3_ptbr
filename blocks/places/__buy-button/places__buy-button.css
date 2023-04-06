@@ -1,5 +1,5 @@
 .buy__button { 
-    width: 22.1rem;  
+    width: 290px;  
  }
  
  .buy__button:hover {
@@ -7,3 +7,5 @@
      background-color: #0763cc;
      opacity: 0.9;
  }
+
+ 

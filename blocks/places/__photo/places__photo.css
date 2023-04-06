@@ -8,9 +8,22 @@
 }
 
 @media screen and (max-width: 768px){
-    .place__image {
+    .place__photo {
         width: 340px;
         margin-left: 24px;
         margin-right: 28px;
+    }
+}
+
+@media screen and (max-width: 320px){
+    .place__photo{
+        width: 320px;
+        margin: 0;
+    }
+}
+
+@media screen and (max-width: 768px){
+    .place__image{
+        margin-left: 10px;
     }
 }

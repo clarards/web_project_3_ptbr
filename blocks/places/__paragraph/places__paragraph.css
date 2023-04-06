@@ -1,6 +1,5 @@
 .place__paragraph {
-    position: relative;
-    top: 50px;
+    /*margin-top: ;*/
     font-size: 1.1rem;
     line-height: 163%;
     font-style: normal;
@@ -9,8 +8,17 @@
 
 @media screen and (max-width: 768px){
     .place__paragraph {
+        position: relative;
+        top: 200px;
         font-size: 16px;
-        width: 352px;
-        margin-left: 28px;
+        width: 340px;
+    }
+}
+
+@media screen and (max-width: 320px){
+    .place__paragraph{
+        margin-bottom: 50px;
+        width: 288px;
+        font-size: 16px;
     }
 }

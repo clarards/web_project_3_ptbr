@@ -18,9 +18,9 @@
 
 @media screen and (max-width:320px) {
     .grid {
-        row-gap: 16px;
-        grid-template-columns: 288px;
-        grid-template-rows: repeat(6, 1fr);
-
+        width: 100%;
+        margin-left: 10px;
+        grid-template-columns: repeat(1, 288px);
+        grid-template-rows: repeat(6, 216px);
     }
 }
