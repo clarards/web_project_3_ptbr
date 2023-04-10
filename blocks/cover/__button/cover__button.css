@@ -10,8 +10,9 @@
       cursor: pointer;
   }
 
-  /*@media screen and (max-width: 768px){
+  @media screen and (max-width: 320px){
     .cover__button{
-        width: 191px;
+        width: 150px;
+        margin-top: 5px;
     }
-  }*/
+  }
