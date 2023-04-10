@@ -1,5 +1,5 @@
 .buy__button { 
-    width: 290px;  
+    width: 18.1rem;  
  }
  
  .buy__button:hover {
@@ -9,3 +9,9 @@
  }
 
  
+ @media screen and (max-width: 320px){
+    .buy__button{
+        width: 288px;
+        margin-bottom: 5px;
+    }
+ }

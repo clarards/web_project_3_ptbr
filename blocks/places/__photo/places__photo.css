@@ -3,8 +3,8 @@
     width: 28.7rem;
 }
 
-.place__image {
-    margin-left: 148px;
+.place__image{
+    margin-left: 100px;
 }
 
 @media screen and (max-width: 768px){
@@ -17,7 +17,7 @@
 
 @media screen and (max-width: 320px){
     .place__photo{
-        width: 320px;
+        max-width: 320px;
         margin: 0;
     }
 }
