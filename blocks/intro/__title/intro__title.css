@@ -2,13 +2,6 @@
     font-size: 4.6vh;
     font-weight: 900;
     line-height: 0.90;
-    margin: 90px auto 40px;
+    margin: 90px 0 40px 150px;
     width: 79.4vw;
 }
-
-/*@media screen and (max-width: 768px) {
-    .intro__title {
-        width: 720px;
-        margin: 88px 24px 40px;
-    }
-}*/
