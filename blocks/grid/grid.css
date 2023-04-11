@@ -22,5 +22,6 @@
         grid-template-columns: repeat(1, 288px);
         grid-template-rows: repeat(6, 216px);
         grid-gap: 16px;
+        margin-bottom: 390px;
     }
 }
