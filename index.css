@@ -1,4 +1,5 @@
 @import url(/blocks/page/page.css);
+@import url(/fonts/Inter\ Web);
 
 /*header*/
 @import url(/blocks/header/__logo/header__logo.css);
