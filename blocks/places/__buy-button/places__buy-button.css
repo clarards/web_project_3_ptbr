@@ -1,8 +1,8 @@
-.button__buy { 
+.buy { 
     width: 18.1rem;  
  }
  
- .buy__button:hover {
+ .buy:hover {
      text-decoration: underline;
      background-color: #0763cc;
      opacity: 0.9;
