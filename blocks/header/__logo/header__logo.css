@@ -5,14 +5,14 @@
 }
 
 @media screen and (max-width: 768px) {
-    .logo_place_header {
+    .header__logo {
         width: 270px;
         margin: 34px 249px 0;
     }
 }
 
 @media screen and (max-width: 320px) {
-    .logo_place_header {
+    .header__logo {
         width: 200px;
         margin: 20px 60px 0;
     }
